@@ -6,7 +6,7 @@ Add to your `.travis.yml` file.
 ```yml
 language: java
 
-script: "mvn cobertura:cobertura"
+script: "mvn clean test"
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
