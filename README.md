@@ -1,4 +1,4 @@
-# Java Maven Example
+# Java Maven Example ( Master 1)
 ## Guide
 ### Travis Setup
 
